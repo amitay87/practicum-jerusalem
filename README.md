@@ -2,3 +2,6 @@
 
 ## Credits
 Amitay Drummer
+
+## Students
+Myriam Schulmann
