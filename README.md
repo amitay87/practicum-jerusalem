@@ -10,4 +10,3 @@ Racheli Idan
 
 Noa Sultan
 
-![Uploading image.png…]()
