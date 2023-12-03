@@ -1,5 +1,6 @@
 # practicum-jerusalem
 
-## Credits
+# Credits
+
 Amitay Drummer
-Noa Sultan
+# Noa Sultan
