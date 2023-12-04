@@ -1,0 +1,14 @@
+{
+    "name": "my-node-project",
+    "version": "1.0.0",
+    "description": "A simple Node.js project",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo 'Hello, World!'"
+    },
+    "keywords": ["node", "javascript"],
+    "author": "Amitay Drummer",
+    "license": "MIT",
+    "devDependencies": {}
+  }
+  
