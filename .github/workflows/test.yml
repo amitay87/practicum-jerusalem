@@ -3,7 +3,7 @@ name: Run Test Script
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   test:
