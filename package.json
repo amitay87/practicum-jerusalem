@@ -4,7 +4,7 @@
     "description": "A simple Node.js project",
     "main": "index.js",
     "scripts": {
-      "test": "echo 'Hello, World!'"
+      "test": "node index.js"
     },
     "keywords": ["node", "javascript"],
     "author": "Amitay Drummer",
